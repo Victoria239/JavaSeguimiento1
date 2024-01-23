@@ -6,7 +6,7 @@ public class Float3 {
 
         float coordenadaX = -3.5f;
         float coordenadaY = 2.0f;
-        System.out.println("Las coordenadas del punto son: (" + coordenadaX + ", " + coordenadaY + ")");
+        System.out.println("Las rutas del punto son: (" + coordenadaX + ", " + coordenadaY + ")");
 
     }
 }
